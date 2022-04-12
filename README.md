@@ -1,7 +1,7 @@
 # my-notes
 Day 01 repository.
 
-**I'm Hadeel Saleh, a 22 years old. I graduated from Jordan University as a computer engineer with GPA 3.60. I like prgramming and I hope in future I will be a professtional programmer.**
+**My name is Hadeel Saleh, I'm 22 years old. I graduated from Jordan University as a computer engineer with GPA 3.60. I like prgramming and I hope in future I will be a professtional programmer.**
 
 *By reading [Learn the fundamentals of a good developer mindset in 15 minutes](https://www.freecodecamp.org/news/learn-the-fundamentals-of-a-good-developer-mindset-in-15-minutes-81321ab8a682/) article, I have learnt the paragraph below:*
 
